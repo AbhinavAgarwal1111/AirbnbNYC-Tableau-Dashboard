@@ -1,4 +1,4 @@
-# AirbnbNYC Tableau Dashboard (CSV Data)
+# AirbnbNYC Tableau Dashboard 
 
 Welcome to the AirbnbNYC Tableau Dashboard repository! This project offers an interactive Tableau Dashboard presenting insights into New York City's Airbnb market, using CSV datasets for visualization and analysis. Inspired by [Tableau Tutorial: How to Create a Dashboard in Tableau - Learn Tableau - Tableau Training | Edureka](https://www.youtube.com/watch?v=47_JlqPxKjY).
 
